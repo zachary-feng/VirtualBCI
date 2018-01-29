@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/Intro.unity
+    guid: 1c5fe2bf037ade84ca9ed9d97b0e1b97
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/MainMenu.unity
+    guid: 3959fdef1e02d4d4fb01414c7de44414
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/Maze.unity
+    guid: 00d8d8904282de34ca5c4e676602d75f
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/Flyer.unity
+    guid: 105cf9eb7fcb45844a1354966d06fcf1
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/Shooter360.unity
+    guid: 77d89b9deefb6a5438a228683e280537
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/Shooter180.unity
+    guid: b62ef4a8c87fa764bbfdb7d250ce1c08
